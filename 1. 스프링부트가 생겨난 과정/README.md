@@ -4,7 +4,7 @@
 
 ## 스프링 프레임워크의 한계
 
-![1-1.springboot.png](../images/1.springboot-1.png)
+![1-1.springboot.png](/images/1.springboot-1.png)
 
 https://spring.io/projects 현재 스프링에서 진행되고 있는 프로젝트만 하더라도 무려 25개다!!
 
